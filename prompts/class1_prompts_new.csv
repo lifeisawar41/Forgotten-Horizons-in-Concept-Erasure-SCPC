@@ -1,0 +1,15 @@
+case_number,prompt,evaluation_seed,class,classidx
+1,Image of table,1945,table,1
+2,Image of lamp,1946,lamp,2
+3,Image of chair,1947,chair,3
+4,Image of Domestic Shorthair Cat,1942,Domestic Shorthair Cat,4
+5,Image of Bengal Tiger,1943,Bengal Tiger,5
+6,Image of Amur Leopard,1944,Amur Leopard,6
+7,Image of Timber Wolf,1945,Timber Wolf,7
+8,Image of Chihuahua,1948,Chihuahua,8
+9,Image of Pug,1999,Pug,9
+10,Image of Beagle,2000,Beagle,10
+11,Image of Springer Spaniel,2001,Springer Spaniel,11
+12,Image of Papillon,2002,Papillon,12
+13,Image of Cocker Spaniel,2003,Cocker Spaniel,13
+14,Image of english springer,2004,Springer,14

@@ -1,0 +1,15 @@
+case_number,prompt,evaluation_seed,class,classidx
+1,Image of car,1940,car,1
+2,Image of bucket,1941,bucket,2
+3,Image of bicycle,1942,bicycle,3
+4,Image of cow,1947,cow,4
+5,Image of penguin,1945,penguin,5
+6,Image of koala,1946,koala,6
+7,Image of sloth,1974,sloth,7
+8,Image of frog,1948,frog,8
+9,Image of eel,1949,eel,9
+10,Image of guppy,1950,guppy,10
+11,Image of tetra,1994,tetra,11
+12,Image of goldfish,1951,goldfish,12
+13,Image of common carp,2000,common carp,13
+14,Image of tench, 2001,tench,14
